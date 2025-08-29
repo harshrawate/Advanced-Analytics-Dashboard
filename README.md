@@ -1,10 +1,3 @@
-# Blackcoffer Full-stack Assignment
-
-## 👤 Candidate: Harsh Rawate  
-## 📅 Submitted: [27-07-2025]
-
----
-
 ## 🚀 Tech Stack
 
 - Frontend: React, Tailwind CSS, Framer Motion
