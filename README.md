@@ -15,4 +15,4 @@
 ### 7. now open new terminal then write cd server
 ### 8. then write npm i 
 ### 9. Run the server using npm run dev
-### 10. now in client you will find the localhost link open that (example-http://localhost:5173/) .
+### 10. now in client you will find the localhost link open that (example-http://localhost:5173/) 
