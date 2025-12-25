@@ -3,7 +3,7 @@
 - Frontend: React, Tailwind CSS, Framer Motion
 - Backend: Node.js, Express
 - Database: MongoDB 
-- Data Visualization: D3.js
+- Data Visualization: D3.js.
 
 ## 🛠️ How to Run the Project
 ### 1. Extract zip file
